@@ -371,7 +371,7 @@ Examples:
 
 **Step 2**: The result display will display a message to let you know that the flashcard has been favourited!
 
-**Step 3**: Check out that heart icon in the flashcard you have favourited!
+**Step 3**: Check out that cute heart icon on the flashcard you have favourited!
 
 ![Fav Step 2 + 3](images/ug/ug_fav_step23.png)
 
